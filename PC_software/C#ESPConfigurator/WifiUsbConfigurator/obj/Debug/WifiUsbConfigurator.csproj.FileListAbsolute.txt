@@ -1,0 +1,10 @@
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\bin\Debug\WifiUsbConfigurator.exe.config
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\bin\Debug\WifiUsbConfigurator.exe
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\bin\Debug\WifiUsbConfigurator.pdb
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.csproj.AssemblyReference.cache
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.MainForm.resources
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.Properties.Resources.resources
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.csproj.GenerateResource.cache
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.csproj.CoreCompileInputs.cache
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.exe
+D:\MEGA\Progarmozás\C#\WifiUsbConfigurator\WifiUsbConfigurator\obj\Debug\WifiUsbConfigurator.pdb
