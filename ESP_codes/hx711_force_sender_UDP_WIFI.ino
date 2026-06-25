@@ -5,11 +5,11 @@
 
 // ===== DEFAULT BEÁLLÍTÁSOK =====
 // Ezek csak akkor kellenek, ha még nincs mentett Preferences
-const char* DEFAULT_WIFI_SSID     = "BagiNet";
-const char* DEFAULT_WIFI_PASSWORD = "19920724";
+const char* DEFAULT_WIFI_SSID     = "NewtonLab";
+const char* DEFAULT_WIFI_PASSWORD = "12345678";
 const char* DEFAULT_PC_IP         = "192.168.1.8";
 const uint16_t DEFAULT_UDP_PORT   = 4210;
-const char* DEFAULT_DEVICE_ID     = "A";
+const char* DEFAULT_DEVICE_ID     = "B";
 
 // ===== FUTÁSI KONFIG =====
 String wifiSSID;
