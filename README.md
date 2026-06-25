@@ -35,7 +35,7 @@ The main goal of the project is to demonstrate Newton’s third law, force–rea
 
 ## Screenshot
 
-![Newton 3 Lab screenshot](images/utkzes.png)
+![Newton 3 Lab](images/exp.png)
 
 ---
 
