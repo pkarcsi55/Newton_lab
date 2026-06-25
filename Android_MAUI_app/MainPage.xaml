@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewtonRemote.MainPage">
+
+<VerticalStackLayout Padding="30" Spacing="18">
+
+    <Label Text="Newton Mobile Sender"
+               FontSize="28"
+               HorizontalOptions="Center" />
+
+        <Label x:Name="LblWifi"
+       Text="WiFi: ?"
+       FontSize="18"/>
+
+
+        <Entry x:Name="TxtIp"
+       Text="192.168.137.208"
+       Placeholder="PC IP cím" />
+
+        <Entry x:Name="TxtPort"
+               Text="4210"
+               Keyboard="Numeric"
+               Placeholder="Port" />
+
+    <Picker x:Name="AxisPicker"
+                Title="Tengely">
+        <Picker.Items>
+            <x:String>AY</x:String>
+            <x:String>AX</x:String>
+            <x:String>AZ</x:String>
+        </Picker.Items>
+    </Picker>
+
+    <Label x:Name="LblAy"
+               Text="AY = 0.00 m/s²"
+               FontSize="22" />
+
+    <Label x:Name="LblStatus"
+               Text="Kész" />
+
+    <Button Text="START"
+                Clicked="OnStartClicked" />
+        <Button Text="STOP"
+            Clicked="OnStopClicked" />
+
+    </VerticalStackLayout>
+
+</ContentPage>
